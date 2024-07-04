@@ -1,0 +1,9 @@
+Selected source: EWR
+Selected destination: SFO
+Flight search complete
+Valid itineraries:
+EWR -> ORD -> SFO
+EWR -> ORD -> SFO
+EWR -> IAH -> SFO
+EWR -> IAH -> SFO
+EWR -> IAH -> SFO

@@ -1,0 +1,11 @@
+I run my code by using the command: 
+g++ ECConsoleUITextLabel.cpp ECTextViewImp.cpp ECConsoleUIView.cpp ECConsoleUIListBox.cpp ECConsoleUITextField.cpp ECConsoleUITest.cpp -o test
+
+I tried implementing the textfield class but it doesn't work at all so I only focused on the listbox.
+
+My listbox is completley functional, I'm able to scroll through the three different sections and navigate between them using ctrl A. My highlight
+is slightly different but it is still completley functional. The highlighted row is indicated just by the cursor. The instructions say as long as
+the code is fully functional and able to be interacted with in the same way then it is okay, so I assume this is fine.
+
+Link to video of my code running: https://youtu.be/Mnj__pq8gew
+
